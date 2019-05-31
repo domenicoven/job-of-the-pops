@@ -1,2 +1,4 @@
-languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+baseURL = "http://www.jobs-of-the-pops.it/"
+languageCode = "it-it"
+title = "Jobs of the Pops"
+theme = "navigator" 
