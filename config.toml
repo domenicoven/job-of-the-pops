@@ -1,4 +1,5 @@
-baseURL = "http://www.jobs-of-the-pops.it/"
+baseURL = "http://example.org/"
 languageCode = "it-it"
 title = "Jobs of the Pops"
-theme = "navigator" 
+
+theme = "navigator"
